@@ -1,6 +1,9 @@
 
+# Cordova Project Template
 
-# Project Setup
+This is a project template for iOS Apps using Cordova.
+As HTML, Javascript and CSS would be where the most of programming occurs,
+various transpilers are configured to assist you.
 
 ## Prerequisites
 
