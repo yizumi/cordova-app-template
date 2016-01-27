@@ -1,0 +1,8 @@
+.sass-cache
+node_modules
+platforms
+plugins/cordova-plugin-whitelist
+www/css
+www/js
+www/vendors
+www/**/*.html
