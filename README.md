@@ -82,3 +82,25 @@ angular/  ngCordova/
 
 If you want to add more JS libraries to your project, edit `bower.json` and run `bower install` again.
 
+## Install platforms
+
+This project assumes you want to export projects as iOS App / Android App.
+
+```
+$ cordova platform add ios
+$ cordova platform add android
+```
+
+Finally, you can run the app by
+
+```
+$ cordova run ios
+```
+
+or 
+
+```
+$ cordova run android
+```
+
+Enjoy!
